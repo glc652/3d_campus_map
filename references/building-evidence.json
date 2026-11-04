@@ -1,0 +1,632 @@
+[
+  {
+    "id": "library",
+    "name": "图书馆",
+    "refined": true,
+    "image": "recent-library.gif",
+    "url": "https://www.thepaper.cn/newsDetail_forward_27072018",
+    "published": "2024-04-16",
+    "captured": "原文未单独注明拍摄日期",
+    "status": "近期照片局部核对",
+    "note": "学校官方延时摄影核对正面玻璃锥厅、石材馆翼与深色遮阳框架；背面、尺寸仍为估计。"
+  },
+  {
+    "id": "hall",
+    "name": "图信报告厅",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "zhishan",
+    "name": "至善楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "practice",
+    "name": "实训用房",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "civil",
+    "name": "土木实验用房",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "eng4",
+    "name": "工4",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "eng13",
+    "name": "工1–3",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "northfood",
+    "name": "北秀食堂",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "shop",
+    "name": "教育超市",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "weixue",
+    "name": "惟学楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "qiuzhen",
+    "name": "求真楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "sirui",
+    "name": "思睿楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "shangya",
+    "name": "尚雅楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "wenyuan",
+    "name": "问源楼",
+    "refined": true,
+    "image": "ref-46.jpeg",
+    "url": "https://english.hzcu.edu.cn/info/1041/1013.htm",
+    "status": "实景核对",
+    "note": "官网明确标注 Wenyuan Apartment。还原橙色端墙、内院阳台、入口玻璃门厅；楼翼长度与朝向结合布局图估计。"
+  },
+  {
+    "id": "northgym",
+    "name": "工体馆",
+    "refined": true,
+    "url": "https://pi.zju.edu.cn/2021/0408/c67006a2589199/page.htm",
+    "status": "名称已核对 · 外观推定",
+    "note": "依据用户纠正及学院官方场馆管理文件，北校区场馆名称为工体馆。现有外形尚缺清晰近期外立面照片。"
+  },
+  {
+    "id": "aux",
+    "name": "辅助用房",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "northtrack",
+    "name": "北操场",
+    "refined": false,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "ta",
+    "name": "教学楼 A",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "tb",
+    "name": "教学楼 B",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "te",
+    "name": "教学楼 E",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "tf",
+    "name": "教学楼 F",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "tc",
+    "name": "教学楼 C",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "td",
+    "name": "教学楼 D",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "sci1",
+    "name": "理工一",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "sci2",
+    "name": "理工二",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "sci3",
+    "name": "理工三",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "sci4",
+    "name": "理工四",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "sci5",
+    "name": "理工五",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "arts1",
+    "name": "文一",
+    "refined": true,
+    "image": "recent-arts.gif",
+    "url": "https://www.thepaper.cn/newsDetail_forward_27072018",
+    "published": "2024-04-16",
+    "captured": "原文未单独注明拍摄日期",
+    "status": "近期照片局部核对",
+    "note": "原文明确标注“文一文二连廊”。补充钢框玻璃雨棚、架空连桥与拱形内立面；照片未覆盖的楼翼、背面沿用示意体量。"
+  },
+  {
+    "id": "arts2",
+    "name": "文二",
+    "refined": true,
+    "image": "recent-arts.gif",
+    "url": "https://www.thepaper.cn/newsDetail_forward_27072018",
+    "published": "2024-04-16",
+    "captured": "原文未单独注明拍摄日期",
+    "status": "近期照片局部核对",
+    "note": "原文明确标注“文一文二连廊”。内侧补充暖色石材、连续拱形开口，与文一的玻璃连廊衔接；其余立面未取得近期全景。"
+  },
+  {
+    "id": "arts3",
+    "name": "文三",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "arts5",
+    "name": "文五",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "uw",
+    "name": "UW 学院大楼（文六）",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "jerry",
+    "name": "吉瑞大厦",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "admin",
+    "name": "行政综合楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "gate",
+    "name": "北校南门（正门）",
+    "refined": true,
+    "image": "recent-gate.jpg",
+    "url": "https://m.thepaper.cn/newsDetail_forward_28488813",
+    "published": "2024-08-21",
+    "captured": "原文未单独注明拍摄日期",
+    "status": "近期照片局部核对",
+    "note": "用户确认北校区南门与南校北门同为对称双通道：补充两侧朝校内开放的圆形地通入口、内侧长方体保安室与雨棚。校名字碑参考2024迎新照片；整体布局依用户纠正，尺寸为估计。"
+  },
+  {
+    "id": "northgate",
+    "name": "北大门",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "lab",
+    "name": "综合实验楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "teach6",
+    "name": "教六",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "teach5",
+    "name": "教五",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "teach4",
+    "name": "教四",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "teach3",
+    "name": "教三",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "teach7",
+    "name": "教七",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "medicine",
+    "name": "医学实验中心",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "food2",
+    "name": "第二食堂 · 风雨操场",
+    "refined": true,
+    "image": "recent-food2.jpg",
+    "url": "https://m.thepaper.cn/newsDetail_forward_28488813",
+    "published": "2024-08-21",
+    "captured": "原文未单独注明拍摄日期",
+    "status": "近期照片局部核对",
+    "note": "原文标注风雨操场。核对并补充银灰金属板分缝、百叶、外楼梯和入口平台；依据用户纠正：照片从另一侧拍摄，楼梯位于圆坛侧左端，直上平台后右转进入二楼风雨操场，一楼为食堂；整体弧线及背面仍参考原总图推定。"
+  },
+  {
+    "id": "xinrui",
+    "name": "欣瑞大厦",
+    "refined": true,
+    "image": "xinrui-current.jpg",
+    "url": "https://www.ssawhotels.com/order/hotel/J571024?cityCode=HZZJ1&hotelCode1=J571024",
+    "reviewed": "2026-09-30",
+    "status": "官网外观核对",
+    "note": "君亭酒店官网标明地址为湖州街28号欣瑞大厦。依当前展示的外观图重建玻璃塔楼、竖向金属肋、两级退台、玻璃顶部与入口门框；22层体量结合楼层使用资料校正，高度估计。照片未注明拍摄日期，背面为推定。"
+  },
+  {
+    "id": "volleyball",
+    "name": "室外排球场（2片）",
+    "refined": false,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "用户校正 · 外观推定",
+    "note": "用户核对：东西体楼马路对面的室外球场，靠近成均楼一端有两片排球场，长轴南北向、并排一行。场地尺寸与配色为示意。"
+  },
+  {
+    "id": "basketball6",
+    "name": "室外篮球场（6片）",
+    "refined": false,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "用户校正 · 外观推定",
+    "note": "用户核对：沿两片排球场向东，排列六片室外篮球场，长轴南北向、六片并排一行。场地尺寸与配色为示意。"
+  },
+  {
+    "id": "westcourt",
+    "name": "西体楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "用户校正 · 外观推定",
+    "note": "位置按用户纠正移至南操场北缘，楼与操场之间不设车道。窗格、色彩与尺寸仍为近似表达。"
+  },
+  {
+    "id": "eastcourt",
+    "name": "东体楼",
+    "refined": true,
+    "image": "ref-50.jpg",
+    "url": "https://english.hzcu.edu.cn/info/1037/1024.htm",
+    "status": "实景核对",
+    "note": "位置按用户纠正移至南操场北缘，楼与操场之间不设车道。官网东体楼实景。修正原版仅有球场的表达，补回低层楼体、外廊和粉红色女儿墙。"
+  },
+  {
+    "id": "jinru",
+    "name": "金如新楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "用户校正 · 外观推定",
+    "note": "位置按用户纠正调整为紧邻晨苑餐厅北侧。窗格、色彩与尺寸仍为近似表达。"
+  },
+  {
+    "id": "zhiyuan",
+    "name": "致远楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "teacher",
+    "name": "教师公寓",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "dorm",
+    "name": "成均楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "用户校正 · 外观推定",
+    "note": "楼名依据用户现场纠正为成均楼；当前体量仍为示意，尚未核对该楼近期外立面。窗格、色彩与尺寸仍为近似表达。"
+  },
+  {
+    "id": "mingde",
+    "name": "明德楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "mingde2",
+    "name": "明德楼南楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "dormwest",
+    "name": "学生公寓西楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "jingcheng",
+    "name": "精诚楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "jingcheng2",
+    "name": "精诚楼南楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "chenyuan",
+    "name": "晨苑餐厅",
+    "refined": true,
+    "image": "recent-chenyuan.gif",
+    "url": "https://www.thepaper.cn/newsDetail_forward_27072018",
+    "published": "2024-04-16",
+    "captured": "原文未单独注明拍摄日期",
+    "status": "近期照片局部核对",
+    "note": "用户核对：餐厅长轴调整为南北向，位于金如新楼南侧。依据“晨苑外的林荫”实拍更新沿街餐厅：连续玻璃门面、黄绿色店招、细柱和入口雨檐。树木遮挡的上部与背面仍为估计。"
+  },
+  {
+    "id": "startup",
+    "name": "创业街",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "用户校正 · 外观推定",
+    "note": "为避让纵向晨苑餐厅，沿街配套占地暂作收缩，范围待实景核对。窗格、色彩与尺寸仍为近似表达。"
+  },
+  {
+    "id": "southtrack",
+    "name": "南操场",
+    "refined": false,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "gym",
+    "name": "体育馆",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "chongxian1",
+    "name": "慕贤楼 1 号楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "chongxian23",
+    "name": "慕贤楼 2、3 号楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "hongyi",
+    "name": "弘毅楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "eastball",
+    "name": "东侧球场",
+    "refined": false,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "tennis",
+    "name": "室外网球场（2片）",
+    "refined": false,
+    "url": "https://english.hzcu.edu.cn/info/1037/1017.htm",
+    "status": "用户草图校正 · 尺寸示意",
+    "published": "2023-09-03",
+    "captured": "官网页面更新日期，拍摄日期未注明",
+    "note": "用户确认共两片，依据所提供草图布置于宿舍后方、科技楼西侧，南侧留空地，外侧道路绕行并连接教一北侧。两片暂按东西并排、长轴南北表达；尺寸、配色和精确朝向仍为示意。官网资料仅证明南校区有网球场，不用于核定这处位置。"
+  },
+  {
+    "id": "tech",
+    "name": "科技综合楼",
+    "refined": true,
+    "url": "https://zdjy.zju.edu.cn/review/toReview?dbID=23&dbName=ZHEJIANGDAXUEBAO&sysID=34998",
+    "status": "体量校正",
+    "note": "校报记载科技综合楼十二层顶平台；据此提高主楼并参考鸟瞰图调整塔楼与低层裙房。立面尚无对应近景，按图推定。"
+  },
+  {
+    "id": "teach1",
+    "name": "教一",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "teach2",
+    "name": "教二",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "westaux",
+    "name": "西辅教楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "eastaux",
+    "name": "东辅教楼",
+    "refined": true,
+    "url": "https://www.hzcu.edu.cn/xysh/xyfg.htm",
+    "status": "外观推定",
+    "note": "位置与组合轮廓依据原校园布局、鸟瞰图；窗格、色彩、屋顶细节为近似表达，尚未取得可明确对应本楼的外立面照片。"
+  },
+  {
+    "id": "southgate",
+    "name": "南校南门（舟山东路）",
+    "refined": true,
+    "url": "https://m.thepaper.cn/newsDetail_forward_7421232",
+    "image": "southgate-history.jpg",
+    "status": "历史照片参考 · 现状待核对",
+    "published": "2020-05-16",
+    "captured": "原文明确标注照片为1999年",
+    "note": "历史照片可见中央横向石材校名墙、两侧平顶门房与竖柱、开放通道及伸缩门。此次仅据此细化入口构成，校名采用现名；尚未核实近期外观，不能视为现状复原。"
+  },
+  {
+    "id": "southmain",
+    "name": "南校北门（正门）",
+    "refined": true,
+    "image": "recent-southmain.gif",
+    "url": "https://www.thepaper.cn/newsDetail_forward_27072018",
+    "published": "2024-04-16",
+    "captured": "原文未单独注明拍摄日期",
+    "status": "近期照片局部核对",
+    "note": "用户确认照片仅拍到西半侧：入口为对称结构，补出东西两组朝校内开放的圆形地通入口、内侧长方体保安室、悬挑屋盖和两个通道。校名字碑依据用户纠正补充，具体尺寸与中部布置仍为估计。"
+  }
+]

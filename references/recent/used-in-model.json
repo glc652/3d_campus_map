@@ -1,0 +1,69 @@
+[
+  {
+    "page": "https://www.thepaper.cn/newsDetail_forward_27072018",
+    "published": "2024-04-16",
+    "captured": "未提供独立拍摄日期",
+    "url": "https://imagepphcloud.thepaper.cn/pph/image/300/977/767.gif",
+    "file": "time-2024-02.jpg",
+    "buildingIds": [
+      "library"
+    ],
+    "scope": "照片可见部分；不可见面与尺寸仍为估计"
+  },
+  {
+    "page": "https://www.thepaper.cn/newsDetail_forward_27072018",
+    "published": "2024-04-16",
+    "captured": "未提供独立拍摄日期",
+    "url": "https://imagepphcloud.thepaper.cn/pph/image/300/977/772.gif",
+    "file": "time-2024-03.jpg",
+    "buildingIds": [
+      "arts1",
+      "arts2"
+    ],
+    "scope": "照片可见部分；不可见面与尺寸仍为估计"
+  },
+  {
+    "page": "https://www.thepaper.cn/newsDetail_forward_27072018",
+    "published": "2024-04-16",
+    "captured": "未提供独立拍摄日期",
+    "url": "https://imagepphcloud.thepaper.cn/pph/image/300/977/780.gif",
+    "file": "time-2024-04.jpg",
+    "buildingIds": [
+      "chenyuan"
+    ],
+    "scope": "照片可见部分；不可见面与尺寸仍为估计"
+  },
+  {
+    "page": "https://www.thepaper.cn/newsDetail_forward_27072018",
+    "published": "2024-04-16",
+    "captured": "未提供独立拍摄日期",
+    "url": "https://imagepphcloud.thepaper.cn/pph/image/300/977/802.gif",
+    "file": "time-2024-09.jpg",
+    "buildingIds": [
+      "southmain"
+    ],
+    "scope": "照片可见部分；不可见面与尺寸仍为估计"
+  },
+  {
+    "page": "https://m.thepaper.cn/newsDetail_forward_28488813",
+    "published": "2024-08-21",
+    "captured": "未提供独立拍摄日期",
+    "url": "https://imagepphcloud.thepaper.cn/pph/image/319/19/532.jpg",
+    "file": "welcome-2024-02.jpg",
+    "buildingIds": [
+      "gate"
+    ],
+    "scope": "照片可见部分；不可见面与尺寸仍为估计"
+  },
+  {
+    "page": "https://m.thepaper.cn/newsDetail_forward_28488813",
+    "published": "2024-08-21",
+    "captured": "未提供独立拍摄日期",
+    "url": "https://imagepphcloud.thepaper.cn/pph/image/319/19/547.jpg",
+    "file": "welcome-2024-09.jpg",
+    "buildingIds": [
+      "food2"
+    ],
+    "scope": "照片可见部分；不可见面与尺寸仍为估计"
+  }
+]

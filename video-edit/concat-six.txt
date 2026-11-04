@@ -1,0 +1,6 @@
+file 'F:/project/campus-edit/clips/01.mp4'
+file 'F:/project/campus-edit/clips/03.mp4'
+file 'F:/project/campus-edit/clips/04.mp4'
+file 'F:/project/campus-edit/clips/05.mp4'
+file 'F:/project/campus-edit/clips/06.mp4'
+file 'F:/project/campus-edit/clips/07.mp4'

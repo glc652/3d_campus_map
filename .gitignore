@@ -1,0 +1,12 @@
+node_modules/
+.sites-runtime/
+*.log
+artifacts/
+
+.video-tools/
+__pycache__/
+*.pyc
+.openai/
+.env
+.env.*
+video-edit/deps/

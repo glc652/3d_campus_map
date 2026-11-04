@@ -1,0 +1,65 @@
+[
+  {
+    "scene": "校园全景",
+    "source_start": 0.5,
+    "source_end": 5.5,
+    "speed": 1.6666666666666667,
+    "start": 0,
+    "duration": 3,
+    "file": "F:\\project\\campus-edit\\clips\\01.mp4"
+  },
+  {
+    "scene": "点击探索",
+    "source_start": 7,
+    "source_end": 10,
+    "speed": 1.5,
+    "start": 3,
+    "duration": 2,
+    "file": "F:\\project\\campus-edit\\clips\\02.mp4"
+  },
+  {
+    "scene": "两区校门",
+    "source_start": 14,
+    "source_end": 18,
+    "speed": 1.3333333333333333,
+    "start": 5,
+    "duration": 3,
+    "file": "F:\\project\\campus-edit\\clips\\03.mp4"
+  },
+  {
+    "scene": "风雨操场与球场",
+    "source_start": 20,
+    "source_end": 26,
+    "speed": 2.0,
+    "start": 8,
+    "duration": 3,
+    "file": "F:\\project\\campus-edit\\clips\\04.mp4"
+  },
+  {
+    "scene": "图书馆",
+    "source_start": 50,
+    "source_end": 57,
+    "speed": 1.75,
+    "start": 11,
+    "duration": 4,
+    "file": "F:\\project\\campus-edit\\clips\\05.mp4"
+  },
+  {
+    "scene": "北操场与工体馆",
+    "source_start": 60,
+    "source_end": 66,
+    "speed": 2.0,
+    "start": 15,
+    "duration": 3,
+    "file": "F:\\project\\campus-edit\\clips\\06.mp4"
+  },
+  {
+    "scene": "全景收尾",
+    "source_start": 39,
+    "source_end": 43,
+    "speed": 2.0,
+    "start": 18,
+    "duration": 2,
+    "file": "F:\\project\\campus-edit\\clips\\07.mp4"
+  }
+]
